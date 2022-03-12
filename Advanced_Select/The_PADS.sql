@@ -1,3 +1,5 @@
+-- https://www.hackerrank.com/challenges/the-pads/problem?isFullScreen=true
+
 -- Solution 1:
 SELECT 
     CONCAT(name,'(',LEFT(occupation, 1),')')
